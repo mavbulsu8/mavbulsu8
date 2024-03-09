@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi! Mark here! A Front-End Web Developer and UI/UX Designer.
+
+- 🔭 Currently pursuing a Bachelor of Science in Computer Engineering at Bulacan State University.
+- 🌱 Proficient in graphic design using Adobe Illustrator, and Figma for UI/UX Design.
+- 👯 Experienced in leadership and team management, serving as Vice President for External Affairs of the Volunteers' Community.
+- 💬 Experienced in Web Development as an intern at BulSU's Planning and Development Office.
+- 📫 Reach me at: [markanthony.villanueva089@gmail.com](mailto:markanthony.villanueva089@gmail.com)
+
 <!--
 **mavbulsu8/mavbulsu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
